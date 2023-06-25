@@ -1,0 +1,135 @@
+Основные понятия дифференциальных уравнений:
+
+https://www.calc.ru/videourok-osnovnyye-ponyatiya-differentsialnykh-uravneniy.html
+(можно, но все очень просто, годится только для практики)
+
+(Елисеева, хорошо, можно использовать как кусок лекции, 16.04 минут)
+https://www.youtube.com/watch?v=bAZajFtuj8Y
+
+Поле направлений (очень хорошо, упор на демонстрацию, 
+примеры: скорость распада вещества, цепь, семество инт. кривых, типы особых точек, метод изоклин, 19.22 мин.):
+(но СЭО этот файл не загружает)
+
+https://youtu.be/m4HBqrDfUqM
+
+mmfthebest.vsibiri.info/dif/du1974/
+
+Поле напрвлений:
+https://anvaka.github.io/fieldplay/?cx=0&cy=0&w=8.5398&h=8.5398&dt=0.01&fo=0.998&dp=0.009&cm=1
+
+
+(Сергеев, МГУ для мехмата)
+https://www.youtube.com/watch?v=NHzgSh68JYA&feature=emb_rel_end
+
+(Лукьяненко, МГУ для физфака)
+https://www.youtube.com/watch?v=mIurPSZO7BQ&list=RDCMUCimGOl6wSQWDbBFoVMQGzMg&start_radio=1&t=51
+
+
+
+Дифференциальные уравнения с разделяющимися переменными:
+
+(Елисеева, ч.1, почти хорошо, 13 мин.; ч.2 - лучше на практику, примерно 5 мин.)
+
+https://www.youtube.com/watch?v=RInf_oK1Lgc
+
+https://www.youtube.com/watch?v=mXVW1xWYWcg
+
+Однородные дифференциальные уравнения:
+
+https://www.youtube.com/watch?v=j3zLWRunjUwhttps://www.youtube.com/watch?v=accSpfDwyx8
+
+Дифференциальные уравнения, приводящиеся к однородным:
+
+Основные типы дифференциальных уравнений 1-го порядка (классификация)(примерно 10 минут):
+
+https://www.youtube.com/watch?v=5RxJxJ0cMJI
+
+Линейные дифференциальные уравнения 1-го порядка. Метод Бернулли:
+
+https://www.youtube.com/watch?v=IZPgeGNxl9M
+
+Линейные дифференциальные уравнения 1-го порядка. Метод Лагранжа:
+
+https://www.youtube.com/watch?v=nsSw2F9WPdU
+
+
+Линейное дифференциальное уравнение относительно х:
+
+https://www.youtube.com/watch?v=z9Vbp3mlWrc
+
+
+Уравнение в полных дифференциалах:
+
+https://www.youtube.com/watch?v=Ahq6ZDe-ak0
+
+Интегрирующий множитель:
+
+https://www.youtube.com/watch?v=lt1rUzvsmFw
+
+Уравнение Бернулли:
+
+https://www.youtube.com/watch?v=9P6y7F6jazM
+
+Дифференциальные уравнения 2-го порядка (понижение порядка, решение примеров):
+
+https://www.youtube.com/watch?v=xouXjBF_PKc&list=PLGtfmJuN1mTDlr4rnIsQ21bQd4RMVgtrW&index=14
+
+Линейные однородные д.у. с постоянными коэффициентами:
+
+https://www.youtube.com/watch?v=YbBBTtVhX_o&list=PLGtfmJuN1mTDlr4rnIsQ21bQd4RMVgtrW&index=15
+
+https://www.youtube.com/watch?v=qBW7SrAluHQ
+(класс!)
+
+https://www.youtube.com/watch?v=ZTeLuNVI2xg&list=PLEOOwQomrpAhptQePuQ7nYDCLt-c2zDNp&index=4
+(класс!)
+
+Линейные неоднородные д.у. 2-го порядка с правой частью специального вида:
+
+https://www.youtube.com/watch?v=8ZSnEkCNTVo&list=PLGtfmJuN1mTDlr4rnIsQ21bQd4RMVgtrW&index=16
+
+https://www.youtube.com/watch?v=6AUDnbEaNDc&list=PLGtfmJuN1mTDlr4rnIsQ21bQd4RMVgtrW&index=17
+
+https://www.youtube.com/watch?v=7G1c1wZw9o0&list=PLGtfmJuN1mTDlr4rnIsQ21bQd4RMVgtrW&index=18
+
+https://www.youtube.com/watch?v=lwRFUFjYBs0&list=PLEOOwQomrpAhptQePuQ7nYDCLt-c2zDNp&index=6
+(класс!)
+
+Линейные неоднородные д.у. 2-го порядка. Метод Лагранжа:
+
+https://www.youtube.com/watch?v=6LgXkIls8uQ&list=PLGtfmJuN1mTDlr4rnIsQ21bQd4RMVgtrW&index=19
+
+Метод Лагранжа для уравнений порядка n (без вывода, с примером д.у. 2-го порядка)
+https://www.youtube.com/watch?v=cchU0ykMXHs
+
+
+Метод неопред.коэфф. (подробное объяснение и решение примеров):
+
+https://www.youtube.com/watch?v=jpoDufKs8_s
+
+https://www.youtube.com/watch?v=udexR-Yr490
+
+Системы дифференциальных уравнений:
+
+https://www.youtube.com/watch?v=G-D2NmXgUAg&list=PLEOOwQomrpAhptQePuQ7nYDCLt-c2zDNp&index=8
+
+(короновирус)
+https://yandex.by/video/preview/?filmId=17143461141927683540&path=wizard&text=%D0%BB%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%BA%D1%80%D0%B8%D0%B2%D0%B0%D1%8F
+
+https://habr.com/ru/post/493620/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
